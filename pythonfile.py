@@ -40,3 +40,4 @@ print(results_2)
 print('\033[1m' + 'Results are not sensitive to intial guess upto 3 decimal places' + '\033[0m')
 
 %added a line
+%pushing to github
