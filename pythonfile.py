@@ -39,6 +39,6 @@ print('\033[1m' + 'Results with initial guess of x0 = [1,4,-1,7,1]' + '\033[0m')
 print(results_2)
 print('\033[1m' + 'Results are not sensitive to intial guess upto 3 decimal places' + '\033[0m')
 
-%added a line
-%pushing to github
-%made a change
+#added a line
+#pushing to github
+#made a change and updated message
